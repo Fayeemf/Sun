@@ -4,7 +4,7 @@ var projects = [
     {
         title: "Google Presentation.",
         desc: "Physics of Sound, learn about the aerodynamics of sound.",
-        img: "christina-website.png",
+        img: "Kingy.png",
         link: "https://docs.google.com/presentation/d/15Mw2Dyp_wDAWWUfMPBB6zFGvAPuWZJdD3w6YZjgw_cg/edit?usp=sharing"
     },
     {
@@ -28,7 +28,7 @@ var projects = [
     {
         title: "Subhan Tariq",
         desc: "Info Gatherer.",
-        img: "stariq.png",
+        img: "Stariq.png",
         link: "https://www.facebook.com/rockin.kid5"
     },
     {
@@ -49,7 +49,7 @@ var skills = [
         desc: "Amplitude: the maximum extent of a vibration or oscillation, measured from the position of equilibrium."
     },
     {
-        name: "gang",
+        name: "Gang",
         desc: "Frequency: the rate at which a vibration occurs that constitutes a wave, either in a material (as in sound waves), or in an electromagnetic field (as in radio waves and light), usually measured per second."
     }
 ]
