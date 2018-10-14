@@ -45,7 +45,7 @@ var skills = [
         desc: "Sound Waves: a wave of compression and rarefaction, by which sound is propagated in an elastic medium such as air."
     },
     {
-        name: "losingg",
+        name: "Gang",
         desc: "Amplitude: the maximum extent of a vibration or oscillation, measured from the position of equilibrium."
     },
     {
