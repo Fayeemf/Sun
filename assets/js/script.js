@@ -28,8 +28,8 @@ var projects = [
     {
         title: "Subhan Tariq",
         desc: "Info Gatherer.",
-        img: "All-Star-Domain.png",
-        link: "https://www.facebook.com/rockin.kid5"
+        img: "Ashraful.jpg",
+        link: "https://www.facebook.com/ashraful.hassan.184"
     },
     {
         title: "Ashraful Hassan",
