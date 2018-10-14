@@ -4,7 +4,7 @@ var projects = [
     {
         title: "Google Presentation.",
         desc: "Physics of Sound, learn about the aerodynamics of sound.",
-        img: "Kingy.png",
+        img: "IdekWhat.png",
         link: "https://docs.google.com/presentation/d/15Mw2Dyp_wDAWWUfMPBB6zFGvAPuWZJdD3w6YZjgw_cg/edit?usp=sharing"
     },
     {
@@ -28,7 +28,7 @@ var projects = [
     {
         title: "Subhan Tariq",
         desc: "Info Gatherer.",
-        img: "Stariq.png",
+        img: "All-Star-Domain.png",
         link: "https://www.facebook.com/rockin.kid5"
     },
     {
