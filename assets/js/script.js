@@ -26,7 +26,7 @@ var projects = [
         link: "https://www.facebook.com/zaid.shaikh.77715869?fb_dtsg_ag=AdwLbVDKOlsShO8YkpVkBZdYgfMajTIpHLkikOWZRogzDA%3AAdyI31mwsUwbgL735AL7RZvo8qZdTwx5FwlZlz47sneI6w"
     },
     {
-        title: "Subhan Tariq",
+        title: "Ashraful Hassan",
         desc: "Info Gatherer.",
         img: "Ashraful.jpg",
         link: "https://www.facebook.com/ashraful.hassan.184"
