@@ -4,12 +4,12 @@ var projects = [
     {
         title: "Google Presentation.",
         desc: "Physics of Sound, learn about the aerodynamics of sound.",
-        img: "IdekWhat.png",
+        img: "Mook.png",
         link: "https://docs.google.com/presentation/d/15Mw2Dyp_wDAWWUfMPBB6zFGvAPuWZJdD3w6YZjgw_cg/edit?usp=sharing"
     },
     {
         title: "Majidul Mooktadeer",
-        desc: "Site Maker + Info gatherer.",
+        desc: "Did not help at all",
         img: "college-organizer.png",
         link: "https://www.facebook.com/profile.php?id=100008014488117&ref=bookmarks"
     },
@@ -26,7 +26,7 @@ var projects = [
         link: "https://www.facebook.com/zaid.shaikh.77715869?fb_dtsg_ag=AdwLbVDKOlsShO8YkpVkBZdYgfMajTIpHLkikOWZRogzDA%3AAdyI31mwsUwbgL735AL7RZvo8qZdTwx5FwlZlz47sneI6w"
     },
     {
-        title: "Ashraful Hassan",
+        title: "Subhan Tariq",
         desc: "Info Gatherer.",
         img: "Ashraful.jpg",
         link: "https://www.facebook.com/ashraful.hassan.184"
