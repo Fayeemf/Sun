@@ -1,4 +1,4 @@
-var subtitles = ["Majidul Mooktadeer", "Hamzah Bemat ", "Zaid Shaikh", "Ashraful Hassan", "Subhan Tariq", "Santiago", "Physics Of Sound"];
+var subtitles = ["Majidul Mooktadeer", "Hamzah Bemat ", "Zaid Shaikh", "Ashraful Hassan", "Subhan Tariq", "Santiago Garcia", "Physics Of Sound"];
 
 var projects = [
     {
@@ -38,7 +38,7 @@ var projects = [
         link: "https://www.facebook.com/ashraful.hassan.184"
     },
     {
-    title: "Santiago ",
+    title: "Santiago Garcia ",
         desc: "Info Gatherer + Slide helper.",
         link: "https://www.apushwise.me"
     }
